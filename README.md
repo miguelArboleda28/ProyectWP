@@ -1,2 +1,8 @@
-# ProyectWP
-El proyecto consiste en construir una aplicación para Acciones &amp; Gestión S.A.S, una empresa que gestiona usuarios que operan acciones a través de corredores y gestores de activos. La aplicación facilita la gestión de usuarios y el comercio de acciones, con restricciones basadas en el país.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
