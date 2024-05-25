@@ -1,0 +1,9 @@
+.container {
+  background-color: #242b2e;
+  height: 97vh;
+  width: 100%;
+  overflow: auto;
+  display: grid;
+  grid-template-areas: "header" "body" "footer";
+  grid-template-rows: 1fr 5fr 1fr;
+}
