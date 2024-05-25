@@ -55,14 +55,14 @@ function Login() {
       </main>
 
       <footer className={footer.footer}>
-        <div className={styles.container_copy}>
+        <div className={footer.container_copy}>
           <p>
             © 2024 Proyecto realizado por Andrés Henao, David y Miguel Arboleda.
             Todos los derechos reservados.
           </p>
           <p>
-            Repositorio: 
-             <a href="https://github.com/miguelArboleda28/ProyectWP">GitHub</a>
+            Repositorio:
+            <a href="https://github.com/miguelArboleda28/ProyectWP">GitHub</a>
           </p>
         </div>
       </footer>

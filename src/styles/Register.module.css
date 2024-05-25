@@ -1,0 +1,65 @@
+.body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container_register {
+  height: 60vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container_register h1 {
+  font-size: 2em;
+  color: white;
+}
+
+.container_email,
+.container_password,
+.container_confirm {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  height: 70%;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+}
+
+.label_email,
+.label_password,
+.label_confirm {
+  color: white;
+  font-size: 0.8em;
+  margin-bottom: 5px;
+}
+
+.input_email,
+.input_password,
+.input_confirm {
+  height: 30px;
+  border-radius: 5px;
+  background-color: #b3b56a1a;
+  border: 1px solid #ffffff2a;
+}
+
+.input_email::placeholder,
+.input_password::placeholder,
+.input_confirm::placeholder {
+  color: rgb(255, 255, 255, 0.6);
+}
+
+.button_register {
+  height: 35%;
+  width: 40%;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #b3b56a;
+  font-size: 0.9em;
+  color: white;
+  border: none;
+}
