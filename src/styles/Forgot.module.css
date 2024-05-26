@@ -1,0 +1,79 @@
+.body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.container_forgot {
+  height: 50%;
+  width: 70%;
+  display: grid;
+  grid-template-areas:
+    "email"
+    "button_uno"
+    "forgot"
+    "button_dos";
+  grid-template-rows: 2fr 1fr 2fr 1fr;
+  place-items: center;
+}
+
+.body h1 {
+  color: white;
+}
+
+.container_email {
+  grid-area: email;
+}
+
+.container_password {
+  grid-area: forgot;
+}
+
+.container_email,
+.container_password {
+  height: 70%;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.label_email,
+.label_password {
+  color: white;
+  font-size: 0.8em;
+  margin-bottom: 5px;
+}
+
+.input_email,
+.input_password {
+  height: 30px;
+  border-radius: 5px;
+  background-color: #b3b56a1a;
+  border: 1px solid #ffffff2a;
+}
+.input_email::placeholder,
+.input_password::placeholder {
+  color: rgb(255, 255, 255, 0.6);
+}
+
+.button_search {
+  grid-area: button_uno;
+}
+
+.button_next {
+  grid-area: button_dos;
+}
+
+.button_search,
+.button_next {
+  height: 80%;
+  width: 40%;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #b3b56a;
+  font-size: 0.9em;
+  color: white;
+  border: none;
+}
