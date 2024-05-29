@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/Ajustes.css';
+import '../styles/components/ajustes.module.css';
 
 function Ajustes() {
   return (
