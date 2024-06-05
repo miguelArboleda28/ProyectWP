@@ -1,0 +1,1054 @@
+.mercado.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #07090a;
+  box-shadow: 0px 2px 4px 0px rgba(17, 11, 41, 0.078);
+  overflow: hidden;
+}
+.mercado .decorator {
+  position: absolute;
+  right: -380px;
+  bottom: -297px;
+  width: 1087px;
+  height: 1087px;
+}
+.mercado .decorator1 {
+  position: absolute;
+  top: -206px;
+  left: 480px;
+  width: 736px;
+  height: 685px;
+}
+.mercado .flex_row {
+  position: relative;
+  display: flex;
+  gap: 0px 1px;
+}
+.mercado .wrapper22 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 8px 0px;
+  margin: 158px 0px 650px;
+  width: 264px;
+  min-width: 0px;
+  padding: 0px 16px 0px 16px;
+}
+.mercado .box10 {
+  position: relative;
+  display: flex;
+  width: 232px;
+  height: 48px;
+  background-color: #b3b56a;
+  padding: 12px 8px 12px 16px;
+  overflow: hidden;
+}
+.mercado .wrapper23 {
+  position: relative;
+  display: flex;
+  gap: 0px 8px;
+  width: 208px;
+  height: 24px;
+}
+.mercado .image6 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.mercado .text5 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 2px 0px;
+  width: 58px;
+  height: 20px;
+  font: 400 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #626262;
+}
+.mercado .box11 {
+  position: relative;
+  display: flex;
+  width: 232px;
+  height: 48px;
+  padding: 12px 16px 12px 16px;
+  filter: drop-shadow(1px 1px 20px rgba(230, 242, 99, 0.247));
+}
+.mercado .wrapper25 {
+  position: relative;
+  display: flex;
+  gap: 0px 8px;
+  width: 200px;
+  height: 24px;
+}
+.mercado .text6 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 2px 1px 2px 0px;
+  width: 61px;
+  height: 20px;
+  font: 500 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #626262;
+}
+.mercado .wrapper231 {
+  position: relative;
+  display: flex;
+  width: 232px;
+  height: 48px;
+  border-radius: 8px 8px 8px 8px;
+  padding: 12px 8px 12px 16px;
+}
+.mercado .text51 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 2px 0px;
+  width: 94px;
+  height: 20px;
+  font: 400 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #626262;
+}
+.mercado .text52 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 2px 0px;
+  width: 48px;
+  height: 20px;
+  font: 400 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #626262;
+}
+.mercado .group {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1175px;
+  min-width: 0px;
+}
+.mercado .rect {
+  position: relative;
+  min-width: 0px;
+  min-height: 1024px;
+  background-color: rgba(25, 29, 32, 0.529);
+}
+.mercado .wrapper {
+  position: absolute;
+  top: 132px;
+  left: 59px;
+  display: flex;
+  flex-direction: column;
+  gap: 52px 0px;
+  width: 1076px;
+  height: 694px;
+}
+.mercado .wrapper1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 32px 0px;
+  width: 1076px;
+  height: 252px;
+}
+.mercado .wrapper2 {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0px 10px;
+  width: 1076px;
+  height: 32px;
+}
+.mercado .medium_title {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 101px;
+  height: 32px;
+  font: 500 24px/1.33 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .wrapper3 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0px 8px;
+  margin: 6px 0px;
+  width: 100px;
+  height: 20px;
+}
+.mercado .text {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 82px;
+  height: 20px;
+  font: 500 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #7cfc4f;
+}
+.mercado .image {
+  position: relative;
+  margin: 5px 0px;
+  width: 10px;
+  height: 10px;
+}
+.mercado .wrapper4 {
+  position: relative;
+  display: flex;
+  gap: 0px 28px;
+  width: 1076px;
+  height: 188px;
+}
+.mercado .group1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 188px;
+}
+.mercado .rect1 {
+  position: absolute;
+  top: 0px;
+  right: 336px;
+  bottom: 0px;
+  left: 0px;
+  width: 4px;
+  height: 188px;
+  background-color: #a2b2bd;
+}
+.mercado .box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 188px;
+  background-color: #363e43;
+  padding: 16px 24px 16px 24px;
+  overflow: hidden;
+}
+.mercado .wrapper5 {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 0px 10px;
+  width: 292px;
+  height: 53px;
+}
+.mercado .wrapper6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 5px 0px;
+  width: 75px;
+  height: 53px;
+}
+.mercado .text1 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0px 33px 0px 0px;
+  width: 42px;
+  height: 20px;
+  font: 400 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .subtitle {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 75px;
+  height: 28px;
+  font: 700 20px/1.4 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .wrapper7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 5px 0px;
+  margin: 2px 0px;
+  width: 48px;
+  height: 49px;
+}
+.mercado .subtitle1 {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 48px;
+  height: 24px;
+  font: 400 20px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+  text-align: right;
+}
+.mercado .info {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0px 0px 0px 9px;
+  width: 39px;
+  height: 20px;
+  font: 400 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #3ae91e;
+  text-align: right;
+}
+.mercado .wrapper8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 24px 0px 0px;
+  width: 292px;
+  height: 79px;
+  background: var(--src) center center/100% 100% no-repeat;
+}
+.mercado .image2 {
+  position: relative;
+  margin: 0px 0px 31px;
+  width: 292px;
+  height: 48px;
+}
+.mercado .box1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 188px;
+  background-color: #363e43;
+  padding: 16px 24px 16px 24px;
+  overflow: hidden;
+}
+.mercado .wrapper9 {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 0px 10px;
+  width: 292px;
+  height: 53px;
+}
+.mercado .wrapper61 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 5px 0px;
+  width: 81px;
+  height: 53px;
+}
+.mercado .text11 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 81px;
+  height: 20px;
+  font: 400 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .subtitle2 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 81px;
+  height: 28px;
+  font: 700 20px/1.4 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .wrapper10 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 5px 0px;
+  margin: 2px 0px;
+  width: 52px;
+  height: 49px;
+}
+.mercado .subtitle11 {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 52px;
+  height: 24px;
+  font: 400 20px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+  text-align: right;
+}
+.mercado .info1 {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0px 0px 0px 11px;
+  width: 41px;
+  height: 20px;
+  font: 400 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #ff5858;
+  text-align: right;
+}
+.mercado .image1 {
+  position: relative;
+  margin: 24px 0px 0px;
+  width: 292px;
+  height: 79px;
+}
+.mercado .wrapper62 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 5px 0px;
+  width: 68px;
+  height: 53px;
+}
+.mercado .text12 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0px 30px 0px 0px;
+  width: 38px;
+  height: 20px;
+  font: 400 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .subtitle3 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 68px;
+  height: 28px;
+  font: 700 20px/1.4 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .wrapper71 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 5px 0px;
+  margin: 2px 0px;
+  width: 49px;
+  height: 49px;
+}
+.mercado .subtitle12 {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 49px;
+  height: 24px;
+  font: 400 20px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+  text-align: right;
+}
+.mercado .info2 {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0px 0px 0px 12px;
+  width: 37px;
+  height: 20px;
+  font: 400 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #3ae91e;
+  text-align: right;
+}
+.mercado .wrapper11 {
+  position: relative;
+  display: flex;
+  gap: 0px 28px;
+  width: 1076px;
+  height: 390px;
+}
+.mercado .group2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 708px;
+  height: 390px;
+}
+.mercado .box7 {
+  position: absolute;
+  top: 161px;
+  right: 266px;
+  bottom: 173px;
+  left: 340px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px 0px;
+  width: 102px;
+  height: 56px;
+  background-color: #191f22;
+  box-shadow: 2px 2px 20px 0px rgba(0, 0, 0, 0.247);
+}
+.mercado .info21 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0px 24px 0px 25px;
+  width: 53px;
+  height: 20px;
+  font: 400 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #f8f040;
+}
+.mercado .highlight1 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0px 15px 8px 16px;
+  width: 71px;
+  height: 20px;
+  font: 700 16px/1.25 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .box3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 708px;
+  height: 390px;
+  background-color: #363e43;
+}
+.mercado .wrapper12 {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 0px 10px;
+  margin: 16px 24px 0px;
+  width: 660px;
+  height: 68px;
+}
+.mercado .wrapper13 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px 0px;
+  width: 118px;
+  height: 68px;
+}
+.mercado .highlight {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0px 10px 0px 0px;
+  width: 108px;
+  height: 32px;
+  font: 500 16px/2 "DM Sans", Helvetica, Arial, serif;
+  color: #f8f040;
+}
+.mercado .medium_title1 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 118px;
+  height: 28px;
+  font: 700 24px/1.16 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .wrapper14 {
+  position: relative;
+  display: flex;
+  gap: 0px 8px;
+  margin: 0px 0px 40px;
+  width: 190px;
+  height: 28px;
+}
+.mercado .box4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 45px;
+  height: 28px;
+  background-color: #1a2c38;
+  padding: 4px 12px 4px 12px;
+}
+.mercado .text2 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 21px;
+  height: 20px;
+  font: 400 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #828282;
+}
+.mercado .box5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 76px;
+  height: 28px;
+  background-color: #1a2c38;
+}
+.mercado .text21 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 4px 8px 4px 12px;
+  width: 56px;
+  height: 20px;
+  font: 400 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #828282;
+}
+.mercado .box6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 53px;
+  height: 28px;
+  background-color: #1e2427;
+  padding: 4px 12px 4px 12px;
+}
+.mercado .text3 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0px 1px 0px 0px;
+  width: 28px;
+  height: 20px;
+  font: 500 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #e8e8e8;
+}
+.mercado .wrapper15 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 87px 21px 15px;
+}
+.mercado .group3 {
+  position: absolute;
+  top: -50px;
+  right: 3px;
+  bottom: 34px;
+  left: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 658px;
+  height: 220px;
+}
+.mercado .image3 {
+  position: absolute;
+  top: 112px;
+  right: 246px;
+  bottom: 3px;
+  left: 411px;
+  width: 1px;
+  height: 105px;
+}
+.mercado .wrapper16 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 658px;
+  height: 220px;
+}
+.mercado .line {
+  position: relative;
+  width: 658px;
+  height: 1px;
+}
+.mercado .line1 {
+  position: relative;
+  margin: 54px 0px 0px;
+  width: 658px;
+  height: 0px;
+}
+.mercado .line11 {
+  position: relative;
+  margin: 55px 0px 0px;
+  width: 658px;
+  height: 0px;
+}
+.mercado .line2 {
+  position: relative;
+  margin: 54px 0px 0px;
+  width: 658px;
+  height: 1px;
+}
+.mercado .image4 {
+  position: absolute;
+  top: 107px;
+  right: 243px;
+  bottom: 105px;
+  left: 407px;
+  width: 8px;
+  height: 8px;
+}
+.mercado .flex_col {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 17px 0px;
+}
+.mercado .content_box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 99.1%;
+  background: var(--src) center center/100% 100% no-repeat;
+}
+.mercado .image5 {
+  position: relative;
+  margin: 0px 1px 65px 0px;
+  width: calc(100% - 1px);
+}
+.mercado .wrapper17 {
+  position: relative;
+  display: flex;
+  gap: 0px 33px;
+  width: 100%;
+}
+.mercado .text4 {
+  position: relative;
+  width: 24px;
+  height: 18px;
+  font: 400 14.4662151337px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .text41 {
+  position: relative;
+  width: 25px;
+  height: 18px;
+  font: 400 14.4662151337px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .text42 {
+  position: relative;
+  width: 26px;
+  height: 18px;
+  font: 400 14.4662151337px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .text43 {
+  position: relative;
+  width: 28px;
+  height: 18px;
+  font: 400 14.4662151337px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .text44 {
+  position: relative;
+  width: 19px;
+  height: 18px;
+  font: 400 14.4662151337px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .text45 {
+  position: relative;
+  margin: 0px 2px 0px 0px;
+  width: 27px;
+  height: 18px;
+  font: 400 14.4662151337px/1.2 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .rect2 {
+  position: absolute;
+  top: 0px;
+  right: 704px;
+  bottom: 0px;
+  left: 0px;
+  width: 4px;
+  height: 390px;
+  background-color: #a2b2bd;
+}
+.mercado .group4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 390px;
+}
+.mercado .box8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 390px;
+  background-color: #363e43;
+  padding: 16px 24px 16px 24px;
+}
+.mercado .wrapper18 {
+  position: relative;
+  display: flex;
+  gap: 0px 30px;
+  width: 292px;
+  height: 32px;
+}
+.mercado .subtitle21 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 160px;
+  height: 32px;
+  font: 500 20px/1.6 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .wrapper31 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0px 9px;
+  margin: 8px 0px 4px;
+  width: 102px;
+  height: 20px;
+}
+.mercado .text7 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 83px;
+  height: 20px;
+  font: 500 14px/1.42 "DM Sans", Helvetica, Arial, serif;
+  color: #7cfc4f;
+}
+.mercado .wrapper19 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0px;
+  margin: 32px 0px 6px;
+  width: 292px;
+  height: 288px;
+}
+.mercado .box9 {
+  position: relative;
+  display: flex;
+  gap: 0px 42px;
+  width: 292px;
+  height: 28px;
+  background-color: #1a2c38;
+  padding: 4px 8px 4px 8px;
+}
+.mercado .info3 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 11px;
+  height: 20px;
+  font: 700 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #f8f040;
+}
+.mercado .info31 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 48px;
+  height: 20px;
+  font: 700 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #f8f040;
+}
+.mercado .info32 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 38px;
+  height: 20px;
+  font: 700 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #f8f040;
+}
+.mercado .info33 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0px 11px 0px 0px;
+  width: 41px;
+  height: 20px;
+  font: 700 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #f8f040;
+}
+.mercado .wrapper20 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0px 48px;
+  width: 292px;
+  height: 40px;
+  padding: 4px 8px 4px 8px;
+}
+.mercado .info4 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 0px 5px;
+  width: 4px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+}
+.mercado .info41 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 29px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .info42 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 44px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .info5 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 6px 9px 6px 0px;
+  width: 39px;
+  height: 20px;
+  font: 400 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #3ae91e;
+}
+.mercado .wrapper201 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0px 46px;
+  width: 292px;
+  height: 40px;
+  padding: 4px 8px 4px 8px;
+}
+.mercado .info43 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 0px 3.5px;
+  width: 7px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+}
+.mercado .info44 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 34px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .info45 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 43px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .info6 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 6px 7px 6px 0px;
+  width: 41px;
+  height: 20px;
+  font: 400 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #3ae91e;
+}
+.mercado .wrapper202 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0px 49px;
+  width: 292px;
+  height: 40px;
+  padding: 4px 8px 4px 8px;
+}
+.mercado .info46 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 0px 3px;
+  width: 8px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+}
+.mercado .info47 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 30px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .info48 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 39px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .info7 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 6px 11px 6px 0px;
+  width: 37px;
+  height: 20px;
+  font: 400 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #3ae91e;
+}
+.mercado .wrapper21 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0px 46px;
+  width: 292px;
+  height: 40px;
+  padding: 4px 8px 4px 8px;
+}
+.mercado .info49 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .info410 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 47px;
+  height: 32px;
+  font: 500 12px/2.66 "DM Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.mercado .info11 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 6px 7px 6px 0px;
+  width: 41px;
+  height: 20px;
+  font: 400 12px/1.66 "DM Sans", Helvetica, Arial, serif;
+  color: #ff5858;
+}
+.mercado .rect21 {
+  position: absolute;
+  top: 0px;
+  right: 336px;
+  bottom: 0px;
+  left: 0px;
+  width: 4px;
+  height: 390px;
+  background-color: #a2b2bd;
+}
